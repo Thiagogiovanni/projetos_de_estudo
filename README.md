@@ -21,10 +21,7 @@ Começei meus estudos em progamação, no ano de 2019. Desde então busco me apr
 ## Projetos:
 
 
-* **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
-* **Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
-* **Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
-
+* **nome:** link
 
 ---
 
