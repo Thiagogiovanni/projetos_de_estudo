@@ -18,10 +18,7 @@ Começei meus estudos em progamação, no ano de 2019. Desde então busco me apr
 **Experiência com:** Python, Machine Learning e Topological Data Analysis.
 
 **Links:**
-* [Blog](http://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
-* [Medium](https://www.medium.com)
-
+* [LinkedIn](https://www.linkedin.com/in/thiagogiovanni)
 
 ## Projetos:
 
