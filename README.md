@@ -24,6 +24,8 @@ Começei meus estudos em progamação, no ano de 2019. Desde então busco me apr
 
 
 * **Analisando os Dados do Airbnb:** https://bit.ly/projetoairbnb_rio
+* **Hackathon:** https://bit.ly/hackathonles
+
 
 ---
 
