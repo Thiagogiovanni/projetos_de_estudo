@@ -16,7 +16,7 @@ Começei meus estudos em progamação, no ano de 2019. Desde então busco me apr
 
 **Links:**
 
-* [LinkedIn](https://www.linkedin.com/in/thiago-giovanni-3445b520a)
+* [LinkedIn](www.linkedin.com/in/thiagogiovanni)
 
 ## Projetos:
 
