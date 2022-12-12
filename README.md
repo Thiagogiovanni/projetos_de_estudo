@@ -27,6 +27,7 @@ Começei meus estudos em progamação, no ano de 2019. Desde então busco me apr
 * **Hackathon:** https://bit.ly/hackathonles
 * **Web Scraping com Selenium + Word Cloud (G1):** https://bit.ly/webscraping__selenium_copa
 * **Web Scraping com Requests + Word Cloud (G1):** https://bit.ly/webscraping_requests_copa
+* **Visualizando casos COVID:** https://bit.ly/visualizandocovid
 ---
 
 
