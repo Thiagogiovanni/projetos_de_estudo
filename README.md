@@ -29,6 +29,7 @@ Começei meus estudos em progamação, no ano de 2019. Desde então busco me apr
 * **Web Scraping com Requests + Word Cloud (G1):** https://bit.ly/webscraping_requests_copa
 * **Visualizando casos COVID:** https://bit.ly/visualizandocovid
 * **Analisando dados COVID:** https://bit.ly/projeto-covid-19
+* **Prevendo fraudes em cartões - Regressão Logística:** https://bit.ly/fraudes_cartoes_credito
 ---
 
 
