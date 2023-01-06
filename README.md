@@ -23,13 +23,14 @@ Começei meus estudos em progamação, no ano de 2019. Desde então busco me apr
 ## Projetos:
 
 
-* **1º** **Analisando os Dados do Airbnb:** https://bit.ly/projetoairbnb_rio
-* **2º** **Hackathon:** https://bit.ly/hackathonles
-* **3º** **Web Scraping com Selenium + Word Cloud (G1):** https://bit.ly/webscraping__selenium_copa
-* **4º** **Web Scraping com Requests + Word Cloud (G1):** https://bit.ly/webscraping_requests_copa
-* **5º** **Visualizando casos COVID:** https://bit.ly/visualizandocovid
-* **6º** **Analisando dados COVID:** https://bit.ly/projeto-covid-19
-* **7º** **Prevendo fraudes - Regressão Logística:** https://bit.ly/fraudes_cartoes_credito
+* **10/2022** **Analisando os Dados do Airbnb:** https://bit.ly/projetoairbnb_rio
+* **11/2022** **Hackathon:** https://bit.ly/hackathonles
+* **12/2022** **Web Scraping com Selenium + Word Cloud (G1):** https://bit.ly/webscraping__selenium_copa
+* **12/2022** **Web Scraping com Requests + Word Cloud (G1):** https://bit.ly/webscraping_requests_copa
+* **12/2022** **Visualizando casos COVID:** https://bit.ly/visualizandocovid
+* **12/2022** **Analisando dados COVID:** https://bit.ly/projeto-covid-19
+* **12/2022** **Prevendo fraudes - Regressão Logística:** https://bit.ly/fraudes_cartoes_credito
+* **01/2022** **Prevendo Churn: ** https://bit.ly/projetochurn
 ---
 
 
